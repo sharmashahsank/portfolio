@@ -140,6 +140,7 @@ img.avatar {
   overflow: hidden;
   text-align: center;
   margin: 0;
+  border: 1px solid #e1dede;
 }
 
 .portfolio-item figcaption {
